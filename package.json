@@ -1,0 +1,19 @@
+{
+  "name": "vowels",
+  "version": "1.0.0",
+  "description": "",
+  "main": "vowels001.js",
+  "scripts": {
+    "build": "tsc",
+    "start": "node dist/use.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "typescript": "^4.2.4"
+  },
+  "devDependencies": {
+    "@types/node": "^14.14.41"
+  }
+}
